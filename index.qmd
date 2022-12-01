@@ -1,4 +1,5 @@
 # Preface {.unnumbered}
+Data til oppgave en finnes i mappen kalt "data"
 
 This is a Quarto book.
 
