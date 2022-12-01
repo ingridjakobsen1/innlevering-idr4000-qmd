@@ -1,3 +1,113 @@
 # Deloppgave 4: Studiedesign
 
 <!-- Part 4: Study designs -->
+Introduksjon
+
+I denne oppgaven er det brukt 5 artikler som ser på hvordan trening påvirker pasienter med kols. Disse artiklene skal sammenlignes. Jeg skal se på hvilke design som er brukt i studiene og hvilke statistiske analyser de bruker. Gjennom denne oppgaven skal det også fremheves hva studiene har gjort bra, og hva som eventuelt kunne vært bedret dersom det skulle vært gjennomført nok en studie.
+
+Metode og resultater
+
+Spørsmål/hypotese
+
+Formålet med alle studiene er å undersøke hvordan fysisk aktivitet/trening påvirker pasienter med kols ([@felcar2018];[@palange2000];[@wada2016]; [@wedzicha1998; [@woolf1969]). En forskjell som kommer frem allerede i det man leser overskriften til studiene er hvilken del av treningen de ønsker å undersøke, samt hvilken type trening de har et ønske om å se på. Ser man på studien til @felcar2018 kan en se at de ønsket å undersøke effekten av trening både i vann og på land. @palange2000 ser mer på hvilke faktorer som kan være med på å påvirke denne pasientgruppens nedsatte treningsevne. @wada2016 ser på effekten av aerob trening kombinert med tøying av respiratoriske muskler. @wedzicha1998 ser på trening med egen kroppsvekt, og om det har noen effekt på pasienter med kols, og som enten kan fungere litt på utsiden av eget hus, eller de som er låst til å være hjemme.
+
+Og til slutt, så ser @woolf1969 på effekten av generell fysisk aktivitet som rask gange.
+
+Det som er felles for studiene som er gjennomført er at de har utformet hypoteser, som ønsker å kunne få testet gjennom disse undersøkelsene ([@felcar2018];[@palange2000];[@wada2016]; [@wedzicha1998; [@woolf1969]).
+
+Logikk
+
+Årsakene til at de ønsket å undersøke akkurat disse hypotesene sine er litt varierende. For å se på noen kan man se at @palange2000 synes det er forsket mye på toleransen til kols-pasienter i forhold til trening, men at det mangler en del forskning på de fysiologiske og metabolske faktorene som har en betydning i det dagligdagse livet. @felcar2018 påpekte at de fleste gjennomførte studier var gjennomført på land, på tross av at trening i vann har blitt brukt til å reversere dekondisjonering, samt å minimere risikoen for muskel- og skjelettskader forårsaket av støt. @woolf1969 undersøkte hvordan generell fysisk aktivitet som enkel gange kunne påvirke treningskapasiteten til pasienten med kols.
+
+Studiedesign
+
+Det som er gjennomgående for de ulike studiene er at det er gjennomført en randomisert kontrollert studie (RCT) ( [@felcar2018];[@palange2000];[@wada2016]; [@wedzicha1998; [@woolf1969]) Alle studiene hadde også deltakere med moderat til alvorlig grad av kols konstatert. Det som gjør at de skiller seg litt fra hverandre er intervensjonene i seg selv, og det faktum at noen at studiene har gjennomført med en kontrollgruppe ([@wada2016]; [@wedzicha1998]), og andre ikke ([@felcar2018];[@palange2000]; [@woolf1969]).
+
+Forsøkspersoner
+
+Antall deltakere i studiene varierer også veldig fra ni som fullførte til totalt 109 som fullførte. Intervensjonene i seg selv varierte i både lengde og aktiviteter
+
+Resultater
+
+Det man kan se i alle studiene er at alle intervensjonene har hatt en effekt, dog i noe ulik grad.
+
+Konklusjon
+
+Alle studiene benytter seg av randomisert kontrollert studie (RCT) ([@felcar2018];[@palange2000];[@wada2016]; [@wedzicha1998; [@woolf1969]). I en slik studie er det som oftest en gruppe som fungerer som en kontrollgruppe, slik at man faktisk kan undersøke om det er forskjeller. Det er slik at i en RCT er deltakerne i intervensjonsgruppen eller kontrollgruppen bestående av tilfeldig valgte personer. På denne måten kan man i større grad holde oversikt på om effekten av intervensjonen er reell eller ikke.
+
+Det er knyttet noen utfordringer til det med randomiserte kontrollerte studier. Blant annet det å finne nok personer som er villig til å delta i en randomisert kontrollert studie. Dette har vist seg å være ganske vanlig. Det kan også være slik at potensielle deltakere ikke er villig til å være med på randomiserte tester. En annen ting som også kan være med å påvirke en slik randomisert kontrollert studie er at deltakerne endrer hvordan de oppfører seg eller lignende ettersom de vet at de vil bli observert og testet (for å unngå dette er det ofte gjort slik at hverken deltaker eller testleder vet hvem som er i intervensjonsgruppen eller kontrollgruppen). Etiske utfordringer knyttet til denne typen studier kan være å unngå og gi personer den hjelpen de trenger, dersom man vet at det kan ha en effekt, kun fordi de er i kontrollgruppen og ikke i intervensjonsgruppen ( [@walker2005] s. 574-578).
+
+En randomisert kontrollert studie er også ganske kostbart, og har ikke mulighet til en like lang oppfølgingsperiode som kan si noe om langtidseffekten av de gjennomførte intervensjonene.
+
+I de aller fleste studiene er det et stort flertall av mannlige deltakere, på bakgrunn av dette er det vanskelig å si om resultatene gjelder for begge kjønn, eller i hovedsak kun for menn ([@palange2000]; [@felcar2018]; [@woolf1969]). I studien gjennomført av @wada2016 var det likevel en 50/50 fordeling av kvinner og menn.
+
+Skal man se på det positive i det med at det er gjennomført testing i stor grad på menn, er det nødt til å være det at man kan si mye mer om treningseffekten på mannlige kols-pasienter.
+
+Videre forskning
+
+For studier som skal gjennomføres ved en senere anledning vil det være en fordel å se mer på treningseffekten hos kvinnelige kols-pasienter. Det kan også være lurt for fremtidige studier at de bruker et studiedesign som har lenger oppfølgingstid, slik at man kan se på langtidseffektene av intervensjonene som gjennomføres og ikke bare de akutte effektene.
+
+For videre forskning er det også fordelaktig å sørge for at det er kontrollgrupper tilgjengelig på studiene som velger å gjennomføre en randomisert kontrollert studie. Som nevnt over er dette for å forsikre seg om at det faktisk er forskjeller.
+
+Litteraturliste
+
+@article{Falcar2018,
+title = {Effect of exercise training in water and on land in patients with COPD: a randomized clinical trial}, 
+author = {Felcar, J. M., Probst, V. S., de Carvalho, D. R., Merli, M. F., Mequita, M., Vidotto L. S., Ribeiro, L. R. G. & Pitta, F.}, 
+year = {2018},
+journal = {Physiotherapy}, 
+pages = {408-416},
+volume = {104}, 
+number = {4}, 
+doi = {https://doi.org/10.1016/j.physio.2017.10.009} }
+
+@article{Palange2000, 
+title = {Ventilatory and Metabolic Adaptations to Walking and Cycling in Patients with COPD},
+author = {Palange, P., Forte, S. Onorati, P., Manfredi, F., Serra, P. & Carlone, S.}, 
+year = {2000}, 
+journal = {Journal of Applied Physiology}, 
+pages = {1715-1720}, 
+volume = {88}, 
+number = {5},
+doi = {https://doi.org/10.1152/jappl.2000.88.5.1715 } }
+
+@article{Wada2016, 
+title = {Effects of Aerobic Training Combined with Respiratory Muscle Stretching on the Functional Exercise Capacity and Thoracoabdominal Kinematics in Patients with COPD: A Randomized and Controlled Trial}, 
+author = {Wada, J. T., Borges-Santos, E., Porras, D. C., Paisani, D. M., Cukier, A., Lunardi, A. C. & Carvalho, C. R. F.}, 
+year = {2016}, 
+journal = {International Journal of Chronic Obstructive Pulmonary Disease},
+pages = {2691-2700},
+volume = {11}, 
+number = {1},
+doi = {https://doi.org/10.2147/COPD.S114548} 
+}
+
+@article{Walker2005, 
+title = {The strength and weaknesses of research designs involving quantitative measures}, 
+author = {Walker, W.}, 
+year = {2005},
+journal = {Journal of Research in Nursing}, pages = {571-582}, 
+volume = {10}, 
+number = {5}, 
+doi = {https://doi-org.ezproxy.inn.no/10.1177/136140960501000505}
+}
+
+@article{Wedzicha1998,
+title = {Randomized controlled trial of pulmonary rehabilitation in severe chronic obstructive pulmonary disease patients, stratified with the MRC dyspnoea scale},
+author = {Wedzicha, J. A., Bestall, J. C., Garrod, R., Garnham, R., Paul, E. A. & Jones, P. W.},
+year = {1998}, 
+journal = {European Respiratory Journal},
+pages = {363-369}, 
+volume = {12}, 
+number = {2},
+doi = {https://doi.org/10.1183/09031936.98.12020363} }
+
+@article{Woolf1969, 
+title = {Alterations in Lung Mechanics and Gas Exchange Following Training in Chronic Obstructive Lung Disease},
+author = {Woolf, C. H. & Suero, J. T. }, year = {1969}, 
+journal = {Diseases of the Chest}, 
+pages = {37-44}, 
+volume = {55},
+number = {1}, 
+doi = {https://doi.org/10.1378/chest.55.1.37 } 
+}
